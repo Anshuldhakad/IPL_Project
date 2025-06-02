@@ -1,1 +1,1 @@
-# IPL_Project
+This project analyzes IPL (Indian Premier League) cricket data using Python. It includes data cleaning, exploration, and visualization to uncover insights like team performance, top players, and match statistics.
